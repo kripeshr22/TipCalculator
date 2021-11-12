@@ -28,13 +28,15 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
+![](https://i.imgur.com/ugH77vm.gif)
 
 ## Notes
 
 Describe any challenges encountered while building the app.
+
+- I am very new to mobile/ios development and XCode so it took some getting used to figuring things out.
+- The tutorial/walthrough has an older version of XCode and they've moved things around since and that confused me.
+- 
 
 ## License
 
