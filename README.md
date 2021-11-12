@@ -36,7 +36,6 @@ Describe any challenges encountered while building the app.
 
 - I am very new to mobile/ios development and XCode so it took some getting used to figuring things out.
 - The tutorial/walthrough has an older version of XCode and they've moved things around since and that confused me.
-- 
 
 ## License
 
