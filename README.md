@@ -4,6 +4,8 @@
 
 Submitted by: **Kripesh Ranabhat**
 
+![](https://i.imgur.com/QLBmvYh.gif)
+
 Time spent: **3** hours spent in total
 
 ## User Stories
